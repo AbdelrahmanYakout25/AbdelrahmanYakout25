@@ -1,4 +1,4 @@
-![wave](assets/wave.gif) Hi, I'm Abdelrahman Yakout
+# 👋 Hi, I'm Abdelrahman Yakout  
 
 🏢 **Currently working as a Software QA Engineer at Tafeel, a leading software solutions company**  
 
