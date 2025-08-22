@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelrahman Yakout  
+
+💻 **Software QA Engineer** with 3+ years of experience in **Manual Testing** and currently building skills in **Test Automation (Java + Selenium + POM)**.  
+
+🌱 **Currently learning:**  
+- Java for Test Automation  
+- Selenium WebDriver  
+- Page Object Model (POM)  
+- JUnit & TestNG  
+
+🔭 **Projects on my GitHub:**  
+- Automated test cases for [The Internet Herokuapp](https://the-internet.herokuapp.com/)  
+- Hands-on QA practice (Manual + Automation)  
+
+📫 **Reach me at:**  
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Email](mailto:your.email@example.com)  
+
+⚡ **Fun fact:** I love exploring new testing tools and sharing knowledge with the QA community 🚀  
+
 
 <!--
 **AbdelrahmanYakout25/AbdelrahmanYakout25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
