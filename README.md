@@ -11,7 +11,7 @@
 - JUnit & TestNG  
 
 📫 **Reach me at:**  
-- [LinkedIn](www.linkedin.com/in/abdelrahman-yakout-bb3585236)  
+- [LinkedIn](www.linkedin.com/in/abdelrahman-yakout)  
 - [Email](mailto:abdelrahmanyakout@outlook.com)  
 
 ⚡ **Fun fact:** I love exploring new testing tools and sharing knowledge with the QA community 🚀  
