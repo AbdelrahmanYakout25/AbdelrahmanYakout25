@@ -8,7 +8,7 @@
 - Java for Test Automation  
 - Selenium WebDriver  
 - Page Object Model (POM)  
-- JUnit & TestNG  
+- Shaft & TestNG  
 
 📫 **Reach me at:**  
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-yakout)  
